@@ -1,0 +1,19 @@
+{
+  "name": "sugar-angularjs-segments",
+  "version": "0.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/thetutlage/sugar-angularjs-segments.git"
+  },
+  "author": "amanvirk <virk.officials@gmail.com>",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/thetutlage/sugar-angularjs-segments/issues"
+  },
+  "homepage": "https://github.com/thetutlage/sugar-angularjs-segments"
+}
